@@ -1,4 +1,4 @@
 cursors
 =======
 
-Mouse cursors
+Mouse cursors for Windows
