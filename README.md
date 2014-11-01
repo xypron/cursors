@@ -1,0 +1,4 @@
+cursors
+=======
+
+Mouse cursors
